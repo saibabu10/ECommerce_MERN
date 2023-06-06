@@ -8,6 +8,7 @@ const data = [
                 countInStock:10,
         rating:4.5,
         numReviews:10,
+
             },
             {
                 product_id:2,
@@ -17,6 +18,8 @@ const data = [
                 category:'mobile',
                                 countInStock:10,
                 rating:4.5,
+                numReviews:100,
+
             },
             {
                 product_id:3,
@@ -26,6 +29,8 @@ const data = [
                 category:'mobile',
                 countInStock:10,
                 rating:4.5,
+                numReviews:50,
+
             }
 ]
 export default data
